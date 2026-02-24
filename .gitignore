@@ -1,2 +1,3 @@
 credential-store/credential_store_app
+lru-cache/lru_cache_app
 *.o
